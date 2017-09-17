@@ -39,3 +39,7 @@ footer {
   background-color: #ebebeb;
   padding: 30px 0;
 }
+
+.navbar-nav {
+  float: none;
+}
